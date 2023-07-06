@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Bárbara Portes 😁
+## Bem-vindo(a) ao perfil da Bárbara Portes 😁
 
  <div>
    <a href="https://github.com/barbaraportes">
