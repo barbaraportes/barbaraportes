@@ -1,28 +1,51 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Hi my name is Daniel Mazzeu 😃 
+> [!NOTE]
+> <em>Programming is actually what I enjoy doing most. The ability to create something from absolute scratch, using only code is something that fascinates me. This universe is an eternal and exciting learning experience.</em><br /><br />
+> <a href="https://www.linkedin.com/in/danzzeu" rel="nofollow" target="_blank">Linkedin</a><br />
+> <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="nofollow" target="_blank">Google Play Store</a><br />
+> <a href="https://www.twitch.tv/danzzeu" rel="nofollow" target="_blank">Twitch</a><br />
+> <a href="https://www.youtube.com/playlist?list=PLiduNjzudndvROdIuM9HornT6zeRk3FDn" rel="nofollow" target="_blank">Youtube Music Playlist</a>
 
- <div>
-   <a href="https://github.com/barbaraportes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbaraportes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraportes&layout=compact&langs_count=6&theme=tokyonight"/>
+<br />
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+<img src="https://streak-stats.demolab.com?user=danzzeu&theme=algolia&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=1000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=danzzeu&show_icons=true&border_radius=5&hide_border&theme=algolia&include_all_commits=true&count_private=true&card_width=1000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzzeu&theme=algolia&langs_count=8&hide_border=true&background=EBEBEB00&border_radius=5&card_width=1000"/>
 
-</div>
- 
- <br>
- 
-  ### Me siga em minhas redes sociais!
- 
-<div> 
-  
-  <a href="https://instagram.com/setropb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:portesdevelopment@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/barbaraportes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
+## About Me
+```javascript
+const me = {
+    name: "Daniel",
+    lastName: "Mazzeu",
+    age: 33,
+    location: "Brazil",
+    specialty: "Front-End Developer",
+    languages: {
+        portuguese: "native",
+        english: "fluent",
+        spanish: "basic"
+    },
+    skills: {
+        skill1: "Html5",
+        skill2: "Css3",
+        skill3: "Bootstrap",
+        skill4: "Javascript / Typescript",
+        skill6: "Jquery",
+        skill7: "Python",
+        skill8: "Php",
+        skill9: "Mysql",
+        skill10: "Git",
+        skill11: "React Native" // Learning...
+    }
+};
+```
+
+## My Setup
+> [!NOTE]
+> Notebook Dell Vostro 3520 i7 <br />
+> Processor Intel i7 1.70 GHz 12th Gen <br />
+> Memory 16GB DDR4 <br />
+> Graphics Card NVIDIA GeForce MX 550 <br />
+> 64-bit System <br />
+> Mouse Dell KM5221W <br />
+> Keyboard Dell KM5221W
